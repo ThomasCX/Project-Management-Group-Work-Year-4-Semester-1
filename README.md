@@ -24,7 +24,7 @@
 				<span>villa101101</span>
 			</td>
 			<td style="text-align: center;">
-				<span>&#10004;</span>
+				<center><span>&#10004;</span></center>
 			</td>
 		</tr>
 		<tr>
@@ -34,8 +34,8 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -46,7 +46,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -57,7 +57,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -68,7 +68,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -79,7 +79,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -90,7 +90,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -101,7 +101,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -112,7 +112,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -123,7 +123,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -134,7 +134,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -145,7 +145,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -156,7 +156,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -167,7 +167,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -178,7 +178,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 		<tr>
@@ -189,7 +189,7 @@
 				<span></span>
 			</td>
 			<td style="text-align: center;">
-				<!--<span>&#10004;</span>-->
+				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
 	</tbody>
