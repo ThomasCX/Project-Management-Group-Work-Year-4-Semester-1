@@ -194,3 +194,24 @@
 		</tr>
 	</tbody>
 </table>
+<br>
+<br>
+Files: 
+<table>
+	<tr>
+		<td>
+			Extension
+		</td>
+		<td>
+			Description
+		</td>
+	</tr>
+	<tr>
+		<td>
+		.pod
+		</td>
+		<td>
+		This file was created using Project Libre or similar alternative
+		</td>
+	</tr>
+</table>
