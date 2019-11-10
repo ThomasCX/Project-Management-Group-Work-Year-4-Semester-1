@@ -29,17 +29,6 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch04Ex01</span>
-			</td>
-			<td>
-				<span></span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<span>Ch04Ex02</span>
 			</td>
 			<td>
@@ -54,10 +43,10 @@
 				<span>Ch04Ex03</span>
 			</td>
 			<td>
-				<span></span>
+				<span>villa101101</span>
 			</td>
 			<td>
-				<!--<center><span>&#10004;</span></center>-->
+				<center><span>&#10004;</span></center>
 			</td>
 		</tr>
 		<tr>
@@ -117,73 +106,7 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch06Ex01</span>
-			</td>
-			<td>
-				<span>otboss</span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<span>Ch06Ex02</span>
-			</td>
-			<td>
-				<span></span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<span>Ch06Ex03</span>
-			</td>
-			<td>
-				<span></span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<span>Ch06Ex04</span>
-			</td>
-			<td>
-				<span></span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<span>Ch06Ex05</span>
-			</td>
-			<td>
-				<span></span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<span>Ch06Ex06</span>
-			</td>
-			<td>
-				<span></span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<span>Ch06Ex07</span>
 			</td>
 			<td>
 				<span></span>
