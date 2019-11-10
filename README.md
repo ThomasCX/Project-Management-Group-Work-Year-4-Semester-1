@@ -32,7 +32,7 @@
 				<span>Ch04Ex02</span>
 			</td>
 			<td>
-				<span></span>
+				<span>66plus3</span>
 			</td>
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
@@ -46,7 +46,7 @@
 				<span>villa101101</span>
 			</td>
 			<td>
-				<!--<center><span>&#10004;</span></center>-->
+				<center><span>&#10004;</span></center>
 			</td>
 		</tr>
 		<tr>
