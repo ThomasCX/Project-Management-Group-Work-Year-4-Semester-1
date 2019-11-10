@@ -5,30 +5,37 @@
 	<thead>
 		<tr>
 			<td>
-				Exercises
+				TO-DO
 			</td>
-		</tr>
-		<tr>
 			<td>
-				Type
+				Doing
 			</td>
-		</tr>
-		<tr>
 			<td>
-				Completion Status
+				Done
 			</td>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
+				Ch02Ex03
+			</td>
+			<td>
 				
 			</td>
 			<td>
-			
+				- [x]
+			</td>
+		</tr>
+		<tr>
+			<td>
+				Ch02Ex07
 			</td>
 			<td>
-			
+				
+			</td>
+			<td>
+				- [x]
 			</td>
 		</tr>
 	</tbody>
