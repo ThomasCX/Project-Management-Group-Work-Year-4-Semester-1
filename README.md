@@ -23,7 +23,7 @@
 			<td>
 				<span>villa101101</span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<center><span>&#10004;</span></center>
 			</td>
 		</tr>
