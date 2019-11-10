@@ -45,7 +45,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -56,7 +56,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -67,7 +67,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -78,7 +78,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -89,7 +89,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -100,7 +100,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -111,7 +111,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -120,9 +120,9 @@
 				<span>Ch06Ex01</span>
 			</td>
 			<td>
-				<span></span>
+				<span>otboss</span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -133,7 +133,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -144,7 +144,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -155,7 +155,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -166,7 +166,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -177,7 +177,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
@@ -188,7 +188,7 @@
 			<td>
 				<span></span>
 			</td>
-			<td style="text-align: center;">
+			<td>
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
