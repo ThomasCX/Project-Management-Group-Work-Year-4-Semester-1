@@ -5,23 +5,23 @@
 	<thead>
 		<tr>
 			<td>
-				TO-DO
+				<span>TO-DO</span>
 			</td>
 			<td>
-				Doing
+				<span>Doing</span>
 			</td>
 			<td>
-				Done
+				<span>Done</span>
 			</td>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td>
-				Ch02Ex03
+				<span>Ch02Ex03</span>
 			</td>
 			<td>
-				
+				<span></span>
 			</td>
 			<td>
 				<span>&#10004;</span>
@@ -32,7 +32,7 @@
 				Ch02Ex07
 			</td>
 			<td>
-				
+				<span></span>
 			</td>
 			<td>
 				<span>&#10004;</span>
