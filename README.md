@@ -32,7 +32,7 @@
 				<span>Ch04Ex02</span>
 			</td>
 			<td>
-				<span></span>
+				<span>66plus3</span>
 			</td>
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
@@ -116,25 +116,4 @@
 			</td>
 		</tr>
 	</tbody>
-</table>
-<br>
-<br>
-Files: 
-<table>
-	<tr>
-		<td>
-			Extension
-		</td>
-		<td>
-			Description
-		</td>
-	</tr>
-	<tr>
-		<td>
-		.pod
-		</td>
-		<td>
-		This file was created using Project Libre or similar alternative
-		</td>
-	</tr>
 </table>
