@@ -24,7 +24,7 @@
 				
 			</td>
 			<td>
-				- [x]
+				<span>&#10004;</span>
 			</td>
 		</tr>
 		<tr>
@@ -35,7 +35,7 @@
 				
 			</td>
 			<td>
-				- [x]
+				<span>&#10004;</span>
 			</td>
 		</tr>
 	</tbody>
