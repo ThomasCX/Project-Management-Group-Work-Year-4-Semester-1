@@ -5,13 +5,13 @@
 	<thead>
 		<tr>
 			<td>
-				<span>To-Do</span>
+				<b><span>To-Do</span></b>
 			</td>
 			<td>
-				<span>Doing</span>
+				<b><span>Doing</span></b>
 			</td>
 			<td>
-				<span>Done</span>
+				<b><span>Done</span></b>
 			</td>
 		</tr>
 	</thead>
