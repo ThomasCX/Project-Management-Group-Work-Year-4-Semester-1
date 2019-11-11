@@ -112,7 +112,7 @@
 				<span></span>
 			</td>
 			<td>
-				<!--<center><span>&#10004;</span></center>-->
+				<center><span>&#10004;</span></center>
 			</td>
 		</tr>
 	</tbody>
