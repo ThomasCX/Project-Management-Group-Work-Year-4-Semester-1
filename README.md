@@ -117,7 +117,7 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch07Tsk01</span>
+				<span>Ch07Tsk01(PDQ)</span>
 			</td>
 			<td>
 				<span></span>
@@ -150,7 +150,7 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch08Tsk01</span>
+				<span>Ch08Tsk01(PDQ)</span>
 			</td>
 			<td>
 				<span></span>
