@@ -183,7 +183,7 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch09Rc01</span>
+				<span>Ch09Rc01(PDQ)</span>
 			</td>
 			<td>
 				<span>66plus3</span>
