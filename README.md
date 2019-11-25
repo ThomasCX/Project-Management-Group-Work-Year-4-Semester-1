@@ -181,5 +181,16 @@
 				<!--<center><span>&#10004;</span></center>-->
 			</td>
 		</tr>
+		<tr>
+			<td>
+				<span>Ch09Rc01</span>
+			</td>
+			<td>
+				<span>66plus3</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>
 	</tbody>
 </table>
