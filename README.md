@@ -117,6 +117,39 @@
 		</tr>
 		<tr>
 			<td>
+				<span>Ch07Tsk01</span>
+			</td>
+			<td>
+				<span></span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>Ch07Tsk02</span>
+			</td>
+			<td>
+				<span></span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>Ch07Tsk03</span>
+			</td>
+			<td>
+				<span></span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>
+		<tr>
+			<td>
 				<span>Ch07Tsk01(PDQ)</span>
 			</td>
 			<td>
