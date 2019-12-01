@@ -62,17 +62,6 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch04Ex05</span>
-			</td>
-			<td>
-				<span></span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>
-		<tr>
-			<td>
 				<span>Ch05Ex03</span>
 			</td>
 			<td>
