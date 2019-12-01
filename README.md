@@ -150,7 +150,7 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch07Tsk02</span>
+				<span>Ch07Tsk02(PDQ)</span>
 			</td>
 			<td>
 				<span>otboss</span>
@@ -161,7 +161,7 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch07Tsk03</span>
+				<span>Ch07Tsk03(PDQ)</span>
 			</td>
 			<td>
 				<span>otboss</span>
