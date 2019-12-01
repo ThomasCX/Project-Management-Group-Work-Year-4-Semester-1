@@ -54,18 +54,7 @@
 				<span>Ch04Ex04</span>
 			</td>
 			<td>
-				<span></span>
-			</td>
-			<td>
-				<!--<center><span>&#10004;</span></center>-->
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<span>Ch04Ex05</span>
-			</td>
-			<td>
-				<span></span>
+				<span>NicSmi</span>
 			</td>
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
@@ -186,7 +175,7 @@
 				<span>Ch08Tsk01(PDQ)</span>
 			</td>
 			<td>
-				<span></span>
+				<span>NicSmi</span>
 			</td>
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
@@ -197,7 +186,7 @@
 				<span>Ch08Tsk02</span>
 			</td>
 			<td>
-				<span></span>
+				<span>NicSmi</span>
 			</td>
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
@@ -208,7 +197,7 @@
 				<span>Ch08Tsk03</span>
 			</td>
 			<td>
-				<span></span>
+				<span>NicSmi</span>
 			</td>
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
