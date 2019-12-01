@@ -175,7 +175,7 @@
 				<span>Ch08Tsk01(PDQ)</span>
 			</td>
 			<td>
-				<span></span>
+				<span>NicSmi</span>
 			</td>
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
