@@ -150,7 +150,7 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch07Tsk02</span>
+				<span>Ch07Tsk02(PDQ)</span>
 			</td>
 			<td>
 				<span>otboss</span>
@@ -161,7 +161,7 @@
 		</tr>
 		<tr>
 			<td>
-				<span>Ch07Tsk03</span>
+				<span>Ch07Tsk03(PDQ)</span>
 			</td>
 			<td>
 				<span>otboss</span>
@@ -183,7 +183,7 @@
 		</tr>	
 		<tr>
 			<td>
-				<span>Ch08Tsk02</span>
+				<span>Ch08Tsk02(PDQ)</span>
 			</td>
 			<td>
 				<span>NicSmi</span>
@@ -209,6 +209,39 @@
 			</td>
 			<td>
 				<span>66plus3</span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>Ch11Rc01(PDQ)</span>
+			</td>
+			<td>
+				<span></span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>Ch11Rc02(PDQ)</span>
+			</td>
+			<td>
+				<span></span>
+			</td>
+			<td>
+				<!--<center><span>&#10004;</span></center>-->
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<span>Ch11Rc03(PDQ)</span>
+			</td>
+			<td>
+				<span></span>
 			</td>
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
