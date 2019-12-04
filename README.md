@@ -230,7 +230,7 @@
 				<span>Ch11Rc02(PDQ)</span>
 			</td>
 			<td>
-				<span></span>
+				<span>otboss</span>
 			</td>
 			<td>
 				<!--<center><span>&#10004;</span></center>-->
