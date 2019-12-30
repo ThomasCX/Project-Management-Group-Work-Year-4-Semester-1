@@ -57,7 +57,7 @@
 				<span>NicSmi</span>
 			</td>
 			<td>
-				<!--<center><span>&#10004;</span></center>-->
+				<center><span>&#10004;</span></center>
 			</td>
 		</tr>
 		<tr>
@@ -178,7 +178,7 @@
 				<span>NicSmi</span>
 			</td>
 			<td>
-				<!--<center><span>&#10004;</span></center>-->
+				<center><span>&#10004;</span></center>
 			</td>
 		</tr>	
 		<tr>
@@ -189,7 +189,7 @@
 				<span>NicSmi</span>
 			</td>
 			<td>
-				<!--<center><span>&#10004;</span></center>-->
+				<center><span>&#10004;</span></center>
 			</td>
 		</tr>	
 		<tr>
@@ -200,7 +200,7 @@
 				<span>NicSmi</span>
 			</td>
 			<td>
-				<!--<center><span>&#10004;</span></center>-->
+				<center><span>&#10004;</span></center>
 			</td>
 		</tr>
 		<tr>
